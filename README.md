@@ -2,3 +2,4 @@
 The "ideas" repository for the raywenderlich.com book Mastering Git
 
 Feel free to add new ideas....
+Contact:support@razeware.com
